@@ -1,0 +1,9 @@
+Device name - LAPTOP-NANVCR4J
+Processor - 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz   3.11 GHz
+RAM - 8GB
+Windows - Windows 10 Home Single Language (64-bit)
+Microsoft - Mocrosoft Office 2019 Home & Student edition
+
+Device ID - 629C0E59-60B0-4C9D-9867-726699F17785
+Product ID - 00327-35940-57469-AAOEM
+Product Key - P6FXQ-N8GYF-FH9JQ-BC6CY-YWRBP

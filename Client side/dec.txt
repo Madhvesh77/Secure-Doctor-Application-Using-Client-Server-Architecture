@@ -1,0 +1,24 @@
+-------------------------------------------ABC Hospital---------------------------------------
+
+------------------------------------------MEDICAL REPORT--------------------------------------
+
+Patient's full name:	Roshan
+Age: 		55 years old
+Doctor's name: 	Tom
+MCR no. of doctor:	333
+
+Doctor-Patient relationship:
+ I have been the doctor in charge of Mr. Roshan since May 2022. I have seen Mr. Roshan regularly
+since then, on average once or twice a week. For purposes of this medical report, I re-examined 
+Mr. Roshan on 13 December 2022.
+
+Patient's clinical history:
+ Mr Tan Ah Kow was accompanied by his son, Mr Tan Ah Beng, for the examination.
+Mr Tan is a 55 year old man, who is divorced, and unemployed. Mr Tan is currently
+living with his son, Ah Beng, in Ah Beng’s flat. Mr Tan Ah Beng informed me that
+Mr Tan Ah Kow used to work as a cleaner
+ Thereafter, he was transferred to XYZ Hospital for stroke rehabilitation on 15 April
+2010. After that, Mr Tan was referred to Blackacre Hospital for follow-up treatment from in
+November 2010. The clinical impression was that he was manifesting behavioural and
+psychological symptoms secondary to Dementia.
+	
